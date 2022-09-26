@@ -23,22 +23,12 @@ int is_palindrome(listint_t **head)
 
 	end--;
 
-
-
 	while (init <= end / 2)
-
 	{
-
 		if (buff[init] != buff[end - init])
-
 			return (0);
-
 		init++;
-
 	}
 
-
-
 	return (1);
-
 }
