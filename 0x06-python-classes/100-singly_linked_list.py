@@ -5,6 +5,7 @@
 class Node:
     """Represent a node in a singly-linked list."""
 
+
     def __init__(self, data, next_node=None):
         """Initialize a new Node.
 
@@ -40,6 +41,7 @@ class Node:
 
 class SinglyLinkedList:
     """Represent a singly-linked list."""
+
 
     def __init__(self):
         """Initalize a new SinglyLinkedList."""
