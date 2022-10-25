@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Module 9-rectangle.
-Creates a Rectangle class.
+"""
+Module 9-rectangle.
+Contains the class BaseGeometry and subclass Rectangle
 """
 
 
