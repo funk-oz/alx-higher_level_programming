@@ -1,4 +1,5 @@
-# 0x10-python_network_0
+<h1># 0x10-python_network_0</h1>
+
 In this project I learnt about:
 - What a URL is
 - What HTTP is
@@ -18,6 +19,6 @@ In this project I learnt about:
 - How to make a request with cURL
 - What happens when you type google.com in your browser (Application level)
 
-## Resources used
+<h3>## Resources used<h3>
 - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - [www3.ntu.edu.sg](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
